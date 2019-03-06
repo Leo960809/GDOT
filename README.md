@@ -1,2 +1,3 @@
 # GDOT
-Data Crawler for GeoPi and Bid Express
+
+Data Crawler for GeoPi, BidX and BidTab.
